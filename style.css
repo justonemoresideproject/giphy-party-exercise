@@ -1,0 +1,38 @@
+#gifForm {
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(9,9,121,1) 46%, rgba(0,58,71,0.8603816526610644) 96%);
+    height: 3rem;
+    padding: 20px;
+    margin: -20px;
+    text-align: center;
+}
+
+#textInput {
+    height: 2rem;
+    font-size: 20px;
+    background-color: red;
+    color: white;
+}
+
+#searchButton {
+    height: 2rem;
+    padding: 8px;
+    background-color: black;
+    color: white;
+}
+
+#deleteButton {
+    height: 2rem;
+    padding: 8px;
+    background-color: black;
+    color: white;
+}
+
+#gifArea {
+    margin: -20px;
+    background-color: orange;
+}
+
+body {
+    background-color: orange;
+}
